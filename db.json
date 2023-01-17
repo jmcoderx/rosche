@@ -1,0 +1,44 @@
+{
+  "reagentLots": [
+    {
+      "id": "yRSdq49",
+      "productName": "A",
+      "companyName": "B",
+      "serialName": "C",
+      "serialNumber": 1,
+      "productionDate": "2023-01-02T23:00:00.000Z",
+      "expirationDate": "2023-01-11T23:00:00.000Z",
+      "status": "In stock"
+    },
+    {
+      "id": "mw3WrJA",
+      "productName": "AA",
+      "companyName": "BB",
+      "serialName": "CC",
+      "serialNumber": 2,
+      "productionDate": "2023-01-07T23:00:00.000Z",
+      "expirationDate": "2023-01-13T23:00:00.000Z",
+      "status": "In stock"
+    },
+    {
+      "id": "Q9gzEhC",
+      "productName": "AAA",
+      "companyName": "BBB",
+      "serialName": "CCC",
+      "serialNumber": 3,
+      "productionDate": "2023-01-14T23:00:00.000Z",
+      "expirationDate": "2023-01-20T23:00:00.000Z",
+      "status": "Retired"
+    },
+    {
+      "id": "dfS1ept",
+      "productName": "AAAA",
+      "companyName": "BBBB",
+      "serialName": "CCCC",
+      "serialNumber": 4,
+      "productionDate": "2023-01-10T23:00:00.000Z",
+      "expirationDate": "2023-01-24T23:00:00.000Z",
+      "status": "In use"
+    }
+  ]
+}
